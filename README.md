@@ -1,10 +1,13 @@
 # SensorIO template project
 
 1. Clone this repository
+```bash
+git clone https://github.com/slashdevteam/sensorio-template.git
+```
 2. Initialize submodules
 
   ```bash
-  cd sensorio-example
+  cd sensorio-template
   git submodule update --init --recursive
   ```
 
